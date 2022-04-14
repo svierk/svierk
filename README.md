@@ -17,7 +17,6 @@
     <td>
       <a
         href="https://medium.com/@svierk/local-development-for-lightning-web-components-7a3fdc1c4b7d"
-        target="_blank"
       >
         <img
           src="https://miro.medium.com/max/1400/1*p_ur6KygBopnRDmfjAHkrw.gif"
@@ -29,7 +28,6 @@
     <td>
       <a
         href="https://medium.com/@svierk/local-development-for-lightning-web-components-7a3fdc1c4b7d"
-        target="_blank"
         >Local Development for Lightning Web Components</a
       >
     </td>
@@ -38,7 +36,6 @@
     <td>
       <a
         href="https://medium.com/@svierk/how-to-create-the-lwc-multi-select-combobox-that-salesforce-is-still-missing-c7bf3a2850dd"
-        target="_blank"
       >
         <img
           src="https://miro.medium.com/max/1400/1*dGy7GZY3ImyNC4jKHV0jwA.png"
@@ -50,7 +47,6 @@
     <td>
       <a
         href="https://medium.com/@svierk/how-to-create-the-lwc-multi-select-combobox-that-salesforce-is-still-missing-c7bf3a2850dd"
-        target="_blank"
         >How to create the LWC Multi Select Combobox <br />
         that Salesforce is still missing</a
       >
@@ -60,7 +56,6 @@
     <td>
       <a
         href="https://medium.com/@svierk/how-to-create-a-toast-service-using-angular-13-and-bootstrap-5-494e5c66627"
-        target="_blank"
       >
         <img
           src="https://miro.medium.com/max/1400/1*sEUYh4Mjj1KlLKyn6Iln8w.gif"
@@ -72,7 +67,6 @@
     <td>
       <a
         href="https://medium.com/@svierk/how-to-create-a-toast-service-using-angular-13-and-bootstrap-5-494e5c66627"
-        target="_blank"
         >How to create a Toast Service using Angular 13 <br />
         and Bootstrap 5</a
       >
