@@ -10,7 +10,7 @@
 
 <a href="https://stackexchange.com/users/8147444/sebastiano-vierk"><img src="https://stackexchange.com/users/flair/8147444.png?theme=dark" width="208" height="58" alt="profile for Sebastiano Vierk on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Sebastiano Vierk on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
-#### Some Medium Posts
+#### Medium Posts
 
 <table>
   <tr>
@@ -19,7 +19,7 @@
         href="https://medium.com/@svierk/local-development-for-lightning-web-components-7a3fdc1c4b7d"
       >
         <img
-          src="https://miro.medium.com/max/1400/1*p_ur6KygBopnRDmfjAHkrw.gif"
+          src="https://miro.medium.com/max/1400/1*WrIe8vWhnDGLkBjLZKLGgQ.gif"
           alt="logo"
           width="150"
         />
