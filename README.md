@@ -16,10 +16,10 @@
   <tr>
     <td>
       <a
-        href="https://betterprogramming.pub/write-and-generate-lwc-code-documentation-using-jsdoc-414ca16d6dd5"
+        href="https://medium.com/better-programming/how-to-use-coverage-and-test-reporters-with-lwc-jest-c40caedbf439"
       >
         <img
-          src="https://miro.medium.com/max/1400/1*I8fZhaT14zOrzsZK0ettjA.png"
+          src="https://miro.medium.com/max/1400/1*pE3gRDp9DDa2vkwM2aDWxQ.png"
           alt="logo"
           width="150"
         />
@@ -27,9 +27,9 @@
     </td>
     <td>
       <a
-        href="https://betterprogramming.pub/write-and-generate-lwc-code-documentation-using-jsdoc-414ca16d6dd5"
-        >Write and Generate Lightning Web Components <br />
-        Code Documentation Using JSDoc</a
+        href="https://medium.com/better-programming/how-to-use-coverage-and-test-reporters-with-lwc-jest-c40caedbf439"
+        >How To Use Coverage and Test Reporters <br />
+        With LWC Jest</a
       >
     </td>
   </tr>
@@ -49,26 +49,6 @@
       <a
         href="https://medium.com/capgemini-salesforce-architects/local-development-for-lightning-web-components-7a3fdc1c4b7d"
         >Local Development for Lightning Web Components</a
-      >
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a
-        href="https://medium.com/javascript-in-plain-english/how-to-create-the-lwc-multi-select-combobox-that-salesforce-is-still-missing-c7bf3a2850dd"
-      >
-        <img
-          src="https://miro.medium.com/max/1400/1*dGy7GZY3ImyNC4jKHV0jwA.png"
-          alt="logo"
-          width="150"
-        />
-      </a>
-    </td>
-    <td>
-      <a
-        href="https://medium.com/javascript-in-plain-english/how-to-create-the-lwc-multi-select-combobox-that-salesforce-is-still-missing-c7bf3a2850dd"
-        >How to Create the LWC Multi-Select Combobox <br />
-        that Salesforce is Still Missing</a
       >
     </td>
   </tr>
