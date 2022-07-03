@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨‍💻 I'm a passionate Software Engineer and [Salesforce Trailblazer](https://trailblazer.me/id/svierk)
+- 👨‍💻 I'm a passionate Solution Architect and [Salesforce Trailblazer](https://trailblazer.me/id/svierk)
 - 👀 I'm interested in everything related to JavaScript / TypeScript
 - ✍️ I like writing technical posts on [Medium](https://medium.com/@svierk)
 - ☁ I’m currently working on Salesforce based projects
