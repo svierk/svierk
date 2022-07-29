@@ -67,7 +67,7 @@
     <td>
       <a
         href="https://medium.com/better-programming/how-to-create-a-toast-service-using-angular-13-and-bootstrap-5-494e5c66627"
-        >How to Create a Toast Service Using Angular 13 <br />
+        >How to Create a Toast Service Using Angular 14 <br />
         and Bootstrap 5</a
       >
     </td>
