@@ -16,6 +16,26 @@
   <tr>
     <td>
       <a
+        href="https://medium.com/capgemini-salesforce-architects/how-to-improve-code-quality-in-sfdx-projects-with-sonarcloud-8c1002f7bd1e"
+      >
+        <img
+          src="https://miro.medium.com/max/1400/1*LZpe23GsiA_onicXT9CEAA.png"
+          alt="logo"
+          width="150"
+        />
+      </a>
+    </td>
+    <td>
+      <a
+        href="https://medium.com/capgemini-salesforce-architects/how-to-improve-code-quality-in-sfdx-projects-with-sonarcloud-8c1002f7bd1e"
+        >How to Improve Code Quality in SFDX Projects <br />
+        with SonarCloud</a
+      >
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a
         href="https://medium.com/better-programming/how-to-use-coverage-and-test-reporters-with-lwc-jest-c40caedbf439"
       >
         <img
