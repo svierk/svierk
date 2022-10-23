@@ -16,10 +16,10 @@
   <tr>
     <td>
       <a
-        href="https://medium.com/capgemini-salesforce-architects/how-to-improve-code-quality-in-sfdx-projects-with-sonarcloud-8c1002f7bd1e"
+        href="https://medium.com/javascript-in-plain-english/how-to-build-a-simple-csv-parser-with-lightning-web-components-464a110a1cd2"
       >
         <img
-          src="https://miro.medium.com/max/1400/1*LZpe23GsiA_onicXT9CEAA.png"
+          src="https://miro.medium.com/max/1400/1*0FOK1CG3uS_qlZosob1Bww.jpeg"
           alt="logo"
           width="150"
         />
@@ -27,9 +27,9 @@
     </td>
     <td>
       <a
-        href="https://medium.com/capgemini-salesforce-architects/how-to-improve-code-quality-in-sfdx-projects-with-sonarcloud-8c1002f7bd1e"
-        >How to Improve Code Quality in SFDX Projects <br />
-        with SonarCloud</a
+        href="https://medium.com/javascript-in-plain-english/how-to-build-a-simple-csv-parser-with-lightning-web-components-464a110a1cd2"
+        >How to Build a Simple CSV Parser with <br />
+        Lightning Web Components</a
       >
     </td>
   </tr>
