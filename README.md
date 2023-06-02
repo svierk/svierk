@@ -16,6 +16,26 @@
   <tr>
     <td>
       <a
+        href="https://medium.com/javascript-in-plain-english/how-to-open-a-record-page-from-salesforce-flow-using-lwc-a8a94bc0c9ba"
+      >
+        <img
+          src="https://miro.medium.com/v2/resize:fit:1400/1*czl_S5w0tx1Gn1449XMFkg.gif"
+          alt="logo"
+          width="150"
+        />
+      </a>
+    </td>
+    <td>
+      <a
+        href="https://medium.com/javascript-in-plain-english/how-to-open-a-record-page-from-salesforce-flow-using-lwc-a8a94bc0c9ba"
+        >How to open a Record Page from Salesforce <br />
+        Flow using LWC</a
+      >
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a
         href="https://medium.com/javascript-in-plain-english/how-to-build-a-simple-csv-parser-with-lightning-web-components-464a110a1cd2"
       >
         <img
@@ -36,30 +56,10 @@
   <tr>
     <td>
       <a
-        href="https://medium.com/better-programming/how-to-use-coverage-and-test-reporters-with-lwc-jest-c40caedbf439"
-      >
-        <img
-          src="https://miro.medium.com/max/1400/1*pE3gRDp9DDa2vkwM2aDWxQ.png"
-          alt="logo"
-          width="150"
-        />
-      </a>
-    </td>
-    <td>
-      <a
-        href="https://medium.com/better-programming/how-to-use-coverage-and-test-reporters-with-lwc-jest-c40caedbf439"
-        >How To Use Coverage and Test Reporters <br />
-        With LWC Jest</a
-      >
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a
         href="https://medium.com/capgemini-salesforce-architects/local-development-for-lightning-web-components-7a3fdc1c4b7d"
       >
         <img
-          src="https://miro.medium.com/max/1400/1*WrIe8vWhnDGLkBjLZKLGgQ.gif"
+          src="https://miro.medium.com/v2/resize:fit:1400/1*WrIe8vWhnDGLkBjLZKLGgQ.gif"
           alt="logo"
           width="150"
         />
@@ -78,7 +78,7 @@
         href="https://medium.com/better-programming/how-to-create-a-toast-service-using-angular-13-and-bootstrap-5-494e5c66627"
       >
         <img
-          src="https://miro.medium.com/max/1400/1*sEUYh4Mjj1KlLKyn6Iln8w.gif"
+          src="https://miro.medium.com/v2/resize:fit:1400/1*sEUYh4Mjj1KlLKyn6Iln8w.gif"
           alt="logo"
           width="150"
         />
