@@ -16,6 +16,26 @@
   <tr>
     <td>
       <a
+        href="https://medium.com/capgemini-salesforce-architects/streamline-e2e-testing-with-utam-salesforces-ui-test-automation-model-51c0effb1e67"
+      >
+        <img
+          src="https://miro.medium.com/v2/resize:fit:1400/1*k7AUL2x0UlUd8IpH1OKiOg.gif"
+          alt="logo"
+          width="150"
+        />
+      </a>
+    </td>
+    <td>
+      <a
+        href="https://medium.com/capgemini-salesforce-architects/streamline-e2e-testing-with-utam-salesforces-ui-test-automation-model-51c0effb1e67"
+        >Streamline E2E Testing with UTAM: <br />
+        Salesforce’s UI Test Automation Model</a
+      >
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a
         href="https://medium.com/javascript-in-plain-english/how-to-open-a-record-page-from-salesforce-flow-using-lwc-a8a94bc0c9ba"
       >
         <img
@@ -30,26 +50,6 @@
         href="https://medium.com/javascript-in-plain-english/how-to-open-a-record-page-from-salesforce-flow-using-lwc-a8a94bc0c9ba"
         >How to open a Record Page from Salesforce <br />
         Flow using LWC</a
-      >
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a
-        href="https://medium.com/javascript-in-plain-english/how-to-build-a-simple-csv-parser-with-lightning-web-components-464a110a1cd2"
-      >
-        <img
-          src="https://miro.medium.com/max/1400/1*0FOK1CG3uS_qlZosob1Bww.jpeg"
-          alt="logo"
-          width="150"
-        />
-      </a>
-    </td>
-    <td>
-      <a
-        href="https://medium.com/javascript-in-plain-english/how-to-build-a-simple-csv-parser-with-lightning-web-components-464a110a1cd2"
-        >How to Build a Simple CSV Parser with <br />
-        Lightning Web Components</a
       >
     </td>
   </tr>
