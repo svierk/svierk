@@ -19,7 +19,7 @@
         href="https://medium.com/capgemini-salesforce-architects/streamline-e2e-testing-with-utam-salesforces-ui-test-automation-model-51c0effb1e67"
       >
         <img
-          src="https://miro.medium.com/v2/resize:fit:1400/1*k7AUL2x0UlUd8IpH1OKiOg.gif"
+          src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Di3MBmOkpCIODqPbtSSjSA.png"
           alt="logo"
           width="150"
         />
