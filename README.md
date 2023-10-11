@@ -19,7 +19,7 @@
         href="https://medium.com/capgemini-salesforce-architects/how-to-render-3d-elements-with-lightning-web-components-7f603129d5f0"
       >
         <img
-          src="https://miro.medium.com/v2/resize:fit:1400/1*Lht9yvDBMTR1eHHyIFLimw.gif"
+          src="https://miro.medium.com/v2/resize:fit:1400/0*8sLfOjFNIkU_QozN"
           alt="logo"
           width="150"
         />
