@@ -16,10 +16,10 @@
   <tr>
     <td>
       <a
-        href="https://medium.com/capgemini-salesforce-architects/streamline-e2e-testing-with-utam-salesforces-ui-test-automation-model-51c0effb1e67"
+        href="https://medium.com/capgemini-salesforce-architects/how-to-render-3d-elements-with-lightning-web-components-7f603129d5f0"
       >
         <img
-          src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Di3MBmOkpCIODqPbtSSjSA.png"
+          src="https://miro.medium.com/v2/resize:fit:1400/1*Lht9yvDBMTR1eHHyIFLimw.gif"
           alt="logo"
           width="150"
         />
@@ -27,9 +27,9 @@
     </td>
     <td>
       <a
-        href="https://medium.com/capgemini-salesforce-architects/streamline-e2e-testing-with-utam-salesforces-ui-test-automation-model-51c0effb1e67"
-        >Streamline E2E Testing with UTAM: <br />
-        Salesforce’s UI Test Automation Model</a
+        href="https://medium.com/capgemini-salesforce-architects/how-to-render-3d-elements-with-lightning-web-components-7f603129d5f0"
+        >How to Render 3D Elements with <br />
+        Lightning Web Components</a
       >
     </td>
   </tr>
