@@ -4,7 +4,7 @@
 - 👀 I'm interested in everything related to JavaScript / TypeScript
 - ✍🏻 I like writing technical posts on [Medium](https://medium.com/@svierk)
 - ☁ I’m currently working on Salesforce based projects
-- ⚡️ Ask me about [Lightning Web Components](https://developer.salesforce.com/docs/component-library/documentation/en/lwc)
+- ⚡️ Ask me about [Lightning Web Components](https://developer.salesforce.com/docs/platform/lwc/guide)
 
 #### StackExchange Profile
 
